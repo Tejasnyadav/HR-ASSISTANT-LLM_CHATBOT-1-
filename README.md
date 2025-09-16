@@ -87,8 +87,7 @@ The chatbot retrieves relevant information from the policies/ folder using vecto
 For complex queries, the local LLM (e.g., Llama3) generates natural language responses.
 
 Example
-
+![Chat Screenshot 1](images/Screenshot 2025-09-15 201856.png)![Chat Screenshot 2](images/Screenshot 2025-09-15 202437.png)
 Contributing
 Contributions are welcome! Please submit a pull request or open an issue on GitHub.
 License
-This project is licensed under the MIT License.
