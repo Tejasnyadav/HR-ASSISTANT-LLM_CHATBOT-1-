@@ -55,6 +55,7 @@ HR-ASSISTANT2/
 
 ## Setup Instructions
 
+## 
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/yourusername/HR-Assistant-Local-LLM.git
@@ -95,5 +96,7 @@ http://127.0.0.1:5000
 Type your HR questions in the chat box and press Send.
 
 
-![Chat Screenshot](images/chat_screenshot.png)
+
+## screenshot
+![Chat Screenshot](images/Screenshot 2025-09-15 201856.png)
 ![Chat Screenshot](images/chat_screenshot.png)
