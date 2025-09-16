@@ -60,7 +60,7 @@ HR-ASSISTANT2/
 ```bash
 git clone https://github.com/yourusername/HR-Assistant-Local-LLM.git
 cd HR-Assistant-Local-LLM
-
+---
 2.**Create a virtual environment and activate it**:
 
 python -m venv hrv
@@ -95,8 +95,6 @@ http://127.0.0.1:5000
 
 Type your HR questions in the chat box and press Send.
 
-
-
-## screenshot
-![Chat Screenshot](images/Screenshot 2025-09-15 201856.png)
+## Screenshots
+![Chat Screenshot](images/Screenshot_2025-09-15_201856.png)
 ![Chat Screenshot](images/chat_screenshot.png)
