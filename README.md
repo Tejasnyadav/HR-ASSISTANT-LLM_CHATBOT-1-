@@ -1,4 +1,6 @@
 # HR Assistant (Local LLM Chatbot)
+![Image](https://github.com/user-attachments/assets/96aa862c-c3b2-428f-88ef-6ed1f5c4493e)
+![Image](https://github.com/user-attachments/assets/1b38003c-00d9-4c4e-b6d7-2aa483cd5ce2)
 
 ## 📌 Overview  
 This is a **local HR Assistant chatbot** designed to help employees quickly find answers to HR-related questions such as leave policies, benefits, and company information.  
@@ -99,6 +101,7 @@ Chatbot fetches policies from the policies/ folder using vector search.
 Local LLM improves natural language answers.
 
 📸 Example Screenshots
+![Image](https://github.com/user-attachments/assets/96aa862c-c3b2-428f-88ef-6ed1f5c4493e)
 
 
 🤝 Contributing
