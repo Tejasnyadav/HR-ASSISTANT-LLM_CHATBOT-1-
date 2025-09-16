@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HR Assistant Chat</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      max-width: 600px; 
+      margin: 40px auto; 
+    }
+    #chat { 
+      border: 1px solid #ccc; 
+      padding: 10px; 
+      height: 400px; 
+      overflow-y: auto; 
+    }
+    .user { 
+      color: blue; 
+      margin: 5px 0; 
+    }
+    .bot { 
+      color: green; 
+      margin: 5px 0; 
+    }
+    #inputArea { 
+      margin-top: 10px; 
+    }
+  </style>
+</head>
+<body>
+  <h2>HR Assistant (Local)</h2>
+  <div id="chat"></div>
+  <div id="inputArea">
+    <input id="q" style="width: 70%" placeholder="Ask your HR question...">
+    <button id="askBtn">Send</button>
+  </div>
+  <script src="static/app.js"></script>
+</body>
+</html>

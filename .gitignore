@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+hrv/
+.venv/
+
+# Ignore large generated files
+vector_store.pkl
+
+# Optional: ignore logs or database files
+*.log
+*.sqlite3
