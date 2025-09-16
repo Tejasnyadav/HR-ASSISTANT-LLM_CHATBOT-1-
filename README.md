@@ -53,47 +53,21 @@ HR-ASSISTANT2/
 ├─ index.html # Frontend HTML
 └─ app.js # JS for chat
 
+---
+
 ## Setup Instructions
 
-1. **Clone the repository:**
+
 ```bash
 git clone https://github.com/yourusername/HR-Assistant-Local-LLM.git
 cd HR-Assistant-Local-LLM
----
-2.**Create a virtual environment and activate it**:
-
 python -m venv hrv
 hrv\Scripts\activate     # Windows
 # OR
 source hrv/bin/activate  # Mac/Linux
-
-Install required Python packages:
-
 pip install flask sentence-transformers faiss-cpu
-
-
-Install Ollama and download a local LLM (optional for local AI responses):
-
 ollama pull llama3    # Or gemma:2b
-
-
-Make sure your policies/ folder has policy text files like leave_policy.txt and benefits.txt.
-
-
-How to Run the Project
-
-Start the Flask server:
-
 python app.py
-
-
-Open a browser and go to:
-
 http://127.0.0.1:5000
 
-
-Type your HR questions in the chat box and press Send.
-
-## Screenshots
-![Chat Screenshot](images/Screenshot_2025-09-15_201856.png)
 ![Chat Screenshot](images/chat_screenshot.png)
